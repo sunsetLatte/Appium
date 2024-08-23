@@ -1,0 +1,6 @@
+{
+  "platformName": "android",
+  "deviceName": "myEmulatedPhone",
+  "appPackage": "ru.netology.testing.uiautomator",
+  "appActivity": "ru.netology.testing.uiautomator.MainActivity"
+}
